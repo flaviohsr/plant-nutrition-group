@@ -1,0 +1,47 @@
+{
+  "source": "Lista fornecida pelo coordenador do grupo",
+  "members": [
+    {
+      "name": "Lucas Souza Granzier",
+      "role": "Graduação",
+      "photo_url": "fotos-equipe/lucas.jpg",
+      "institution": "ESALQ/USP",
+      "profile_url": ""
+    },
+    {
+      "name": "Emilee Nahomi Calero Rios",
+      "role": "Mestrado",
+      "photo_url": "fotos-equipe/emilee.jpg",
+      "institution": "ESALQ/USP",
+      "profile_url": ""
+    },
+    {
+      "name": "Alcindor José de Oliveira Neto",
+      "role": "Graduação",
+      "photo_url": "",
+      "institution": "ESALQ/USP",
+      "profile_url": ""
+    },
+    {
+      "name": "Mauro Ernesto Issufo",
+      "role": "Mestrado",
+      "photo_url": "fotos-equipe/mauro.jpg",
+      "institution": "",
+      "profile_url": ""
+    },
+    {
+      "name": "Liliana Valentina Pinedo Fernández",
+      "role": "Mestrado",
+      "photo_url": "fotos-equipe/liliana.jpg",
+      "institution": "ESALQ/USP",
+      "profile_url": ""
+    },
+    {
+      "name": "Bruno Bordim",
+      "role": "Graduação",
+      "photo_url": "fotos-equipe/bruno.jpg",
+      "institution": "ESALQ/USP",
+      "profile_url": ""
+    }
+  ]
+}

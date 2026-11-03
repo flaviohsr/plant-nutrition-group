@@ -2,6 +2,13 @@
   "source": "Lista fornecida pelo coordenador do grupo",
   "members": [
     {
+      "name": "Deivisson Ferreira da Silva",
+      "role": "Doutorado",
+      "photo_url": "",
+      "institution": "UFLA",
+      "profile_url": ""
+    },
+    {
       "name": "Lucas Souza Granzier",
       "role": "Graduação",
       "photo_url": "fotos-equipe/lucas.jpg",
@@ -18,7 +25,7 @@
     {
       "name": "Alcindor José de Oliveira Neto",
       "role": "Graduação",
-      "photo_url": "",
+      "photo_url": "fotos-equipe/alcindor.jpg",
       "institution": "ESALQ/USP",
       "profile_url": ""
     },

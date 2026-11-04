@@ -2,53 +2,69 @@
   "source": "Lista fornecida pelo coordenador do grupo",
   "members": [
     {
+      "name": "Lucélia Borgo",
+      "role": "Coordenação técnica",
+      "photo_url": "fotos-equipe/lucelia.jpg",
+      "institution": "ESALQ/USP",
+      "country": "BR",
+      "bio": "Bióloga pela UEPG, Mestrado em Genética e Biologia Molecular pela UEL, Doutorado em Energia Nuclear na Agricultura pelo CENA/USP e Pós-doutorado pelo CENA/USP, ESALQ/USP, UFLA e Hasselt University.",
+      "profile_url": ""
+    },
+    {
       "name": "Deivisson Ferreira da Silva",
       "role": "Doutorado",
       "photo_url": "fotos-equipe/deivisson.jpg",
       "institution": "UFLA",
-      "profile_url": ""
+      "profile_url": "",
+      "country": "BR"
     },
     {
       "name": "Lucas Souza Granzier",
       "role": "Graduação",
       "photo_url": "fotos-equipe/lucas.jpg",
       "institution": "ESALQ/USP",
-      "profile_url": ""
+      "profile_url": "",
+      "country": "BR"
     },
     {
       "name": "Emilee Nahomi Calero Rios",
       "role": "Mestrado",
       "photo_url": "fotos-equipe/emilee.jpg",
       "institution": "ESALQ/USP",
-      "profile_url": ""
+      "profile_url": "",
+      "country": "PE"
     },
     {
       "name": "Alcindor José de Oliveira Neto",
       "role": "Graduação",
       "photo_url": "fotos-equipe/alcindor.jpg",
       "institution": "ESALQ/USP",
-      "profile_url": ""
+      "profile_url": "",
+      "country": "BR"
     },
     {
       "name": "Mauro Ernesto Issufo",
       "role": "Mestrado",
       "photo_url": "fotos-equipe/mauro.jpg",
-      "institution": "",
-      "profile_url": ""
+      "institution": "ESALQ/USP",
+      "profile_url": "",
+      "country": "MZ"
     },
     {
       "name": "Liliana Valentina Pinedo Fernández",
       "role": "Mestrado",
       "photo_url": "fotos-equipe/liliana.jpg",
       "institution": "ESALQ/USP",
-      "profile_url": ""
+      "profile_url": "",
+      "country": "PE"
     },
     {
       "name": "Bruno Bordim",
       "role": "Graduação",
       "photo_url": "fotos-equipe/bruno.jpg",
       "institution": "ESALQ/USP",
-      "profile_url": ""
+      "profile_url": "",
+      "country": "BR"
     }
   ]
 }
